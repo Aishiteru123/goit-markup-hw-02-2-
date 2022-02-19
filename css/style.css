@@ -96,7 +96,8 @@ color: #FFFFFF;
 }
 
 .button1 {
-    color: #FFFFFF;
+    font-family: Roboto;
+color: #FFFFFF;
 font-style: normal;
 font-weight: bold;
 font-size: 16px;
@@ -108,6 +109,7 @@ border-radius: 4px;
 }
 
 .button2 {
+    font-family: Roboto;
 font-style: normal;
 font-weight: 500;
 font-size: 16px;
